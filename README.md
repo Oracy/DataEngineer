@@ -1,0 +1,32 @@
+# DataEngineer Study
+
+- [Conceito de Datalake / data warehouse / lakehouse](./Conceitos/DataStorage.md)
+- [Conceito, arquitetura, modelagem e utilização de banco de dados NoSQL das famílias Column Store, Document (MongoDB e Elastic), Key/Value (Redis);](./Conceitos/Databases.md)
+- [Python e suas principais bibliotecas;](./Programação/)
+  - [Geral](./Programação/Python_Geral.md)
+  - [Data Engineer](./Programação/Python_Data_Engineer.md)
+- [Hadoop: Arquitetura e conceitos do framework pioneiro dos ecossistemas Big Data;](./Conceitos/Hadoop.md)
+- Introdução a Docker e containers;
+- EDA - Conceitos da Arquitetura Orientada a Eventos e sua utilização com Streams de Eventos;
+- Tipos de arquivos (CSV, JSON, Avro, Parquet, Delta e outros);
+- Conceito, arquitetura e utilização de padrão S3
+  - Arquitetura e armazenamento de dados destruído com HDFS;
+  - Streaming de dados com Kafka Platform;
+- Eventos em banco de dados utilizando CDC (Change Data Capture);
+- Ingestão em tempo real e fluxo de dados com Kafka Connect, Spark, Nifi e AirByte;
+- Ingestão batch, ETL e ELT utilizando Spark e AirFlow; • Orquestração e deploy de pipeline de ingestão de dados.
+  - Processamento e Análise de Dados
+- Conceitos e Arquitetura Spark;
+- Introdução ao processamento distribuído;
+- Análise de dados com Python (PySpark) e SQL;
+  - Análise exploratória de dados com Spark;
+- Processamento de dados em tempo real;
+- Análise e cruzamento de dados em modo batch;
+- Criação de aplicações distribuídas com Spark;
+- Spark na Cloud (EMR e Databricks);
+  - Processamento ETL com DBT.
+Acesso e Distribuição de Dados
+- Conceito de acesso a arquivos com engine SQL como Big Query, Athena, Synapse, Trino, Presto e Dremio;
+- Arquitetura e acesso a dados com Hive;
+- Federação de dados e acesso In Memory com Trino/Presto;
+- Entregando dados com API.
