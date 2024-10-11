@@ -1,7 +1,7 @@
 # DataEngineer Study
 
-- [Conceito de Datalake / data warehouse / lakehouse](./Conceitos/DataStorage.md)
-- [Conceito, arquitetura, modelagem e utilização de banco de dados NoSQL das famílias Column Store, Document (MongoDB e Elastic), Key/Value (Redis);](./Conceitos/Databases.md)
+- [Conceito de Datalake / data warehouse / lakehouse](./Conceitos/Datalake_DataWarehouse_Lakehouse.md)
+- [Conceito, arquitetura, modelagem e utilização de banco de dados NoSQL das famílias Column Store, Document (MongoDB e Elastic), Key/Value (Redis);](./NoSQL_Databases/Databases.md)
 - [Python e suas principais bibliotecas;](./Programação/)
   - [Geral](./Programação/Python_Geral.md)
   - [Data Engineer](./Programação/Python_Data_Engineer.md)
