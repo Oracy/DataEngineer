@@ -6,12 +6,12 @@
   - [Geral](./Programação/Python_Geral.md)
   - [Data Engineer](./Programação/Python_Data_Engineer.md)
 - [Hadoop: Arquitetura e conceitos do framework pioneiro dos ecossistemas Big Data;](./Conceitos/Hadoop.md)
-- Introdução a Docker e containers;
-- EDA - Conceitos da Arquitetura Orientada a Eventos e sua utilização com Streams de Eventos;
-- Tipos de arquivos (CSV, JSON, Avro, Parquet, Delta e outros);
-- Conceito, arquitetura e utilização de padrão S3
-  - Arquitetura e armazenamento de dados destruído com HDFS;
-  - Streaming de dados com Kafka Platform;
+- [Introdução a Docker e containers;](./Containers/Docker_Containers.md)
+- [EDA - Conceitos da Arquitetura Orientada a Eventos e sua utilização com Streams de Eventos;](./Conceitos/EDA_Event_Driven_Architecture.md)
+- [Tipos de arquivos (CSV, JSON, Avro, Parquet, Delta e outros);](./Arquivos_Formatos/Tipos_de_Arquivos.md)
+- [Conceito, arquitetura e utilização de padrão S3](./Conceitos/S3_and_HDFS.md)
+  - [Arquitetura e armazenamento de dados destruído com HDFS;](./Conceitos/S3_and_HDFS.md)
+  - [Streaming de dados com Kafka Platform;](./Conceitos/S3_and_HDFS.md)
 - Eventos em banco de dados utilizando CDC (Change Data Capture);
 - Ingestão em tempo real e fluxo de dados com Kafka Connect, Spark, Nifi e AirByte;
 - Ingestão batch, ETL e ELT utilizando Spark e AirFlow; • Orquestração e deploy de pipeline de ingestão de dados.
